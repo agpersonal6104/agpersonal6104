@@ -25,6 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agpersonal6104&show_icons=true&locale=en" alt="agpersonal6104" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agpersonal6104&" alt="agpersonal6104" /></p>
-
-![image](https://github.com/user-attachments/assets/d1651c4b-0493-4097-9327-bbb9a94fc16d)
-
