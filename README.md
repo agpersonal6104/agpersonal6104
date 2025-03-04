@@ -5,15 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agpersonal6104" alt="agpersonal6104" /></a> </p>
 
-- 🔭 I’m currently working on [Diabetes Prediction using ML](https://github.com/agpersonal6104/Diabetes-Prediction-using-ML)
+- 🔭 I’m currently working on [Many Machine Learning models and DNN.](https://github.com/agpersonal6104/Machine-Learning)
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Deep Neural Network**
 
-- 💬 Ask me about **React, Pandas, Frontend dev, etc**
+- 💬 Ask me about **React, Pandas, data Science, etc**
 
 - 📫 How to reach me **agpersonal0614@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/ayush-gauniyal-15ba7b2b3</h3>
+<h3 align="left">My Leetcode: https://leetcode.com/agpersonal6104/</h3>
 <p align="left">
 </p>
 
