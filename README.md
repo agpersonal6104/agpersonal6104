@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush gauniyal</h1>
-<h3 align="center">A passionate MERN Stack developer and Data Analysist from India.</h3>
+<h3 align="center">Competetive Coder<br>MERN Stack developer<br>Data Analysist and Scientist<br>Big Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agpersonal6104&label=Profile%20views&color=0e75b6&style=flat" alt="agpersonal6104" /> </p>
 
