@@ -26,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agpersonal6104&show_icons=true&locale=en" alt="agpersonal6104" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agpersonal6104&border_radius=8" alt="GitHub Streak" /></a> -->
+<h1 align="center">Hi 👋, I'm Ayush gauniyal</h1>
 # 💫 About Me:
 🔭 I’m currently working on Many Machine Learning models and DNN.<br>🌱 I’m currently learning Deep Neural Network.<br>💬 Ask me about Data Analysis, Data Science, Machine Learning, Development and a lot more.<br>📫 How to reach me agpersonal0614@gmail.com
 
