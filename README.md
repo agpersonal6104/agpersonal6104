@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agpersonal6104" alt="agpersonal6104" /></a> </p>
 
-- 🔭 I’m currently working on [Many Machine Learning models and DNN.](https://github.com/agpersonal6104/Machine-Learning)
+- 🔭 I'm a Software Engineer Intern at Progota Pvt. Ltd. I’m a Machine Learning developer and i am currently working on [Deep Neural Networks.](https://github.com/agpersonal6104/Deep-Learning)
 
 - 🌱 I’m currently learning **Deep Neural Network**
 
-- 💬 Ask me about **React, Pandas, data Science, etc**
+- 💬 Ask me about **JavaFX Development, Data analysis, Data Science, Machine Learning, etc.**
 
 - 📫 How to reach me **agpersonal0614@gmail.com**
 
